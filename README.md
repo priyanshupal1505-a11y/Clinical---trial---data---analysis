@@ -13,6 +13,15 @@ The project covers patient demographics, study sites, visits, laboratory results
 > **Note:** This is a portfolio/learning project using structured clinical-trial-style data. It does not represent a real clinical trial or real patient records.
 
 ---
+## Power BI Dashboard
+
+### Page 1 — Clinical Trial Overview
+
+![Clinical Trial Overview](images/dashboard-page-1.png)
+
+### Page 2 — Clinical Data Analysis
+
+![Clinical Data Analysis](images/dashboard-page-2.png)
 
 ## Project Objectives
 
